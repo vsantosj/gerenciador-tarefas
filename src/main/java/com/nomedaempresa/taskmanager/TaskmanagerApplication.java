@@ -1,13 +1,13 @@
-package com.nomedaempresa.gerenciadortarefas;
+package com.nomedaempresa.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GerenciadortarefasApplication {
+public class TaskmanagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GerenciadortarefasApplication.class, args);
+		SpringApplication.run(TaskmanagerApplication.class, args);
 	}
 
 }

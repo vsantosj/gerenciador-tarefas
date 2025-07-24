@@ -1,4 +1,4 @@
-package com.nomedaempresa.gerenciadortarefas;
+package com.nomedaempresa.taskmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
